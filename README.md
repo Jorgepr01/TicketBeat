@@ -78,6 +78,6 @@ Es un prototipo por consola para la sección D. No incluye interfaz web o móvil
 
 # Integrantes
 - Adriel Celi
-- 
+- Ricardo Soledispa 
 - Paulo Lema
 - Jorge Santamaria
