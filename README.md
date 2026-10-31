@@ -75,3 +75,9 @@ Estos ajustes deben reflejarse en el UML final. Los diagramas de secuencia deben
 ## Alcance
 
 Es un prototipo por consola para la sección D. No incluye interfaz web o móvil, base de datos, inicio de sesión real ni servicios externos. Los datos y los identificadores se reinician al cerrar el programa. Las políticas se representan en el modelo, pero la gestión completa de cancelaciones de eventos, cambios de fecha e intercambios de boletos queda fuera de esta demostración inicial. La contraseña del modelo usa datos ficticios; no se implementó un sistema de autenticación.
+
+# Integrantes
+- 
+- 
+- 
+- Jorge Santamaria
